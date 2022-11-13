@@ -4,7 +4,7 @@
 I've been working on physiological computing since 2006 and I'm an expert in building real-time adaptive systems based on psychophysiological signals such as EDA, EMG, EEG, ECG, EOG, fNIRS, PPG, as well as magneto-and accelerometers, eye-trackers, depth-cameras, microphones, and light sensors to create
 emotionally adaptive games, adaptive virtual commercials, dance performances, and even emotionally adaptive VR movies.
 
-I've got a Ph.D. in Computer Science and published over 40 scientific articles on the topic of physiological and affective computing. I've reviewed articles for conferences and journals, acted as associate chair for the main CHI conference and program chair at NordicCHI conference, as well as helped to organize smaller workshops, seminars, and other academic events.
+I've got a Ph.D. in Computer Science and published over 40 scientific articles on the topic of physiological and affective computing. I've reviewed articles for conferences and journals, acted as associate chair for the main CHI conference and program chair at NordicCHI conference, as well as helped to organize smaller workshops, seminars, and other academic events. I have more than 20 years of programming experience ranging from programming industrial Unix servers in C to developing games and mobile applications, and pretty much everything else.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basalganglia&label=Profile%20views&color=0e75b6&style=flat" alt="basalganglia" /> </p>
 
